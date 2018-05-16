@@ -1,0 +1,28 @@
+*{
+    border: 1px black solid;
+}
+
+body{
+    background: lightblue;    
+}
+
+h1{
+    margin: 0;
+}
+.To-Do{
+    display: flex;
+    max-width: 400px;
+    flex-direction: column;
+    margin: 25% auto;
+    justify-content: center;
+    align-items: center;
+    background: white;
+}
+
+.Task{
+    width: 100%;
+}
+
+.Form{
+
+}
