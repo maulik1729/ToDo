@@ -3,7 +3,7 @@
 }
 html{
     box-sizing: border-box;
-    background: url("../images/c.jpg") center repeat ;  
+    background: url("../images/a.jpg") center repeat ;  
     background-size:cover;
     display:flex;
     justify-content: center;
